@@ -1,4 +1,4 @@
-# Rippling Mini — Take-Home Demo
+# Rippling Mini — Demo
 
 A mini version of Rippling's core feature: add an employee, and Gmail, Slack, and Payroll get provisioned automatically.
 
@@ -17,6 +17,16 @@ That's it. Simple, but it shows the core Rippling idea: one action triggers a wo
 
 ---
 
+<img width="1619" height="907" alt="Screenshot 2026-04-29 130655" src="https://github.com/user-attachments/assets/c0f42a71-e0c3-47e4-8399-b078d46c456e" />
+
+
+<img width="1546" height="575" alt="Screenshot 2026-04-29 130704" src="https://github.com/user-attachments/assets/2b45d3b9-e5e2-4c49-8051-b4f2e3d2f10f" />
+
+
+<img width="1205" height="865" alt="Screenshot 2026-04-29 132303" src="https://github.com/user-attachments/assets/581af9ae-7008-4610-8d1f-f2014ba2e5be" />
+
+
+---
 ## Tech
 
 - **Backend** — Spring Boot 3, Java 17, H2 in-memory DB, JPA
