@@ -2,8 +2,6 @@
 
 A mini version of Rippling's core feature: add an employee, and Gmail, Slack, and Payroll get provisioned automatically.
 
-Built for the Rippling SWE interview.
-
 ---
 
 ## What it does
